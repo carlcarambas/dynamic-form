@@ -25,16 +25,4 @@ pnpm dev
 bun dev
 ```
 
-for testing run
-
-```bash
-npm run test
-# or
-yarn test
-# or
-pnpm test
-# or
-bun test
-```
-
 Open [http://localhost:5173/](http://localhost:5173/) with your browser
